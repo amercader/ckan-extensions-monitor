@@ -6,6 +6,7 @@ This is a monitor that twice a week runs the test suite of main CKAN extensions 
 
 | Extension | Repo |
 | --------- | ---- |
+| [![ckanext-announcements](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-announcements/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-announcements.yml) | [ckanext-announcements](https://github.com/okfn/ckanext-announcements)
 | [![ckanext-archiver](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-archiver/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-archiver.yml) | [ckanext-archiver](https://github.com/ckan/ckanext-archiver)
 | [![ckanext-dcat](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-dcat/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-dcat.yml) | [ckanext-dcat](https://github.com/ckan/ckanext-dcat)
 | [![ckanext-fluent](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-fluent/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-fluent.yml) | [ckanext-fluent](https://github.com/ckan/ckanext-fluent)
