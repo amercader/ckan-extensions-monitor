@@ -30,12 +30,14 @@ jobs:
       CKAN_REDIS_URL: redis://redis:6379/1
 
     steps:
-    - uses: actions/checkout@v2
     - name: Clone extension
+    - uses: actions/checkout@v3
       run: |
         git clone https://github.com/keitaroinc/ckanext-saml2auth.git
-        apt-get update -qq
-        apt-get install xmlsec1 libxmlsec1-dev
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install xmlsec1 libxmlsec1-dev
     - name: Install requirements
       run: |
         cd ckanext-saml2auth
