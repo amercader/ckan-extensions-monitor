@@ -6,7 +6,7 @@ This is a monitor that twice a week runs the test suite of main CKAN extensions 
 
 | Extension | Repo |
 | --------- | ---- |
-| [![ckanext-admin-panel](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-admin-panel/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-admin-panel.yml)] | [ckanext-admin-panel](https://github.com/mutantsan/ckanext-admin-panel)
+| [![ckanext-admin-panel](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-admin-panel/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-admin-panel.yml) | [ckanext-admin-panel](https://github.com/mutantsan/ckanext-admin-panel)
 | [![ckanext-announcements](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-announcements/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-announcements.yml) | [ckanext-announcements](https://github.com/okfn/ckanext-announcements)
 | [![ckanext-archiver](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-archiver/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-archiver.yml) | [ckanext-archiver](https://github.com/ckan/ckanext-archiver)
 | [![ckanext-dcat](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-dcat/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-dcat.yml) | [ckanext-dcat](https://github.com/ckan/ckanext-dcat)
