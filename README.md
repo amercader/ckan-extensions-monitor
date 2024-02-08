@@ -22,6 +22,7 @@ This is a monitor that twice a week runs the test suite of main CKAN extensions 
 | [![ckanext-showcase](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-showcase/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-showcase.yml) | [ckanext-showcase](https://github.com/ckan/ckanext-showcase)
 | [![ckanext-sitesearch](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-sitesearch/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-sitesearch.yml) | [ckanext-sitesearch](https://github.com/okfn/ckanext-sitesearch)
 | [![ckanext-spatial](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-spatial/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-spatial.yml) | [ckanext-spatial](https://github.com/ckan/ckanext-spatial)
+| [![ckanext-s3filestorage](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-s3filestorage/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-s3filestorage.yml) | [ckanext-s3filestorage](https://github.com/qld-gov-au/ckanext-s3filestore)
 | [![ckanext-xloader](https://github.com/ckan/ckan-extensions-monitor/workflows/ckanext-xloader/badge.svg)](https://github.com/ckan/ckan-extensions-monitor/actions/workflows/.ckanext-xloader.yml) | [ckanext-xloader](https://github.com/ckan/ckanext-xloader)
 
 
