@@ -8,7 +8,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     container:
-      image: openknowledge/ckan-dev:master
+      image: ckan/ckan-dev:master
     services:
       solr:
         image: ckan/ckan-solr-dev:master
