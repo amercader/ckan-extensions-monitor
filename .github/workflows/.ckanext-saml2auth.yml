@@ -30,8 +30,8 @@ jobs:
       CKAN_REDIS_URL: redis://redis:6379/1
 
     steps:
-    - name: Clone extension
     - uses: actions/checkout@v3
+    - name: Clone extension
       run: |
         git clone https://github.com/keitaroinc/ckanext-saml2auth.git
     - name: Install dependencies
