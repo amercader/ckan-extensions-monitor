@@ -11,7 +11,7 @@ jobs:
       image: ckan/ckan-dev:master
     services:
       solr:
-        image: ckan/ckan-solr-dev:master
+        image: ckan/ckan-solr:master
       postgres:
         image: postgis/postgis:10-3.1
         env:
@@ -30,7 +30,7 @@ jobs:
       PGPASSWORD: postgres
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Clone extension
       run: |
         git clone https://github.com/ckan/ckanext-spatial.git
