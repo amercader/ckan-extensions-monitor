@@ -1,6 +1,6 @@
 # CKAN Extensions Monitor
 
-This is a monitor that twice a week runs the test suite of main CKAN extensions against CKAN core master branch.
+This is a monitor runs the test suite of main CKAN extensions against CKAN core master branch.
 
 ## Status
 
@@ -30,7 +30,7 @@ This is a monitor that twice a week runs the test suite of main CKAN extensions 
 
 The main goal is to keep track if the most common CKAN extensions are working as expected against CKAN core latest development branch. This can be used to easily detect breaking changes on CKAN core.
 
-Tests are run At 12:00am on Tuesday and Thursday (`0 0 * * 2,4`) to have a fresh run before CKAN's [Tech Meetings](https://github.com/ckan/ckan/wiki/Weekly-Developer-Meetings).
+Tests are run At 12:00am on Tuesday and Thursday (`0 0 * * 2,4`) to have a fresh run before CKAN's [Tech Meetings](https://github.com/ckan/ckan/wiki/Weekly-Developer-Meetings). (It some times stops as Github do not run actions on inactive repositories.)
 
 ## Contributing
 
