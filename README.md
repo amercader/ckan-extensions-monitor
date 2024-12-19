@@ -1,6 +1,6 @@
 # CKAN Extensions Monitor
 
-This is a monitor runs the test suite of main CKAN extensions against CKAN core master branch.
+This is a monitor runs the test suite of main extensions against CKAN master branch.
 
 ## Status
 
